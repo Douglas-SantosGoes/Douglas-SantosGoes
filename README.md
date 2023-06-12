@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming/Coding, Philosophy and LoL
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dograsantos007@gmail.com
+- 📫 How to reach me socialdouglasgoes@gmail.com
 
 
 <!---
